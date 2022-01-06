@@ -1,0 +1,2 @@
+# CalcularSoma
+Projecto usando javaFx
